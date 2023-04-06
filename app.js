@@ -105,8 +105,8 @@ submitBtn.addEventListener('click', () => {
       loadQuiz()
     } else {
       quiz.innerHTML = `
-      <h2> Test tamamlandı, ${score * 20} puan aldınız🥳 </h2>
-      <button class="submit" onClick="location.reload()"> Tekrar Dene 🌀  </button>
+      <h2> Quiz completed, you got ${score * 20} points🥳 </h2>
+      <button class="submit" onClick="location.reload()"> Try again 🌀  </button>
     `
     }
   }
