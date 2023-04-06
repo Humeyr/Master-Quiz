@@ -5,7 +5,7 @@
 <h2> Html, Css, Js used.
 
 
-<img src="gif.gif">
+<img src="quiz.gif">
 
 
 
